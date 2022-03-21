@@ -1,7 +1,7 @@
 [![masterhead](https://pbs.twimg.com/profile_images/1071213357166878720/QO9tKNC9.jpg)](https://www.blogger.com/profile/01666687188680901708)
 
 <h1 align="center">Hi 👋, I'm Satish Padmanabuni</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<h3 align="center">A passionate frontend developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padmanabunisatish&label=Profile%20views&color=0e75b6&style=flat" alt="padmanabunisatish" /> </p>
 
